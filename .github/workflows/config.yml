@@ -9,9 +9,6 @@ on:
     branches: [ $default-branch ]
   
 
-permissions:
-  contents: read 
-
 jobs:
   build: 
 
